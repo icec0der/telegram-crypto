@@ -2476,3 +2476,9 @@ body {
 	font-size: 30px;
 	font-family: 'Courier New', Courier, monospace;
 }
+
+@media (max-width: 767px) {
+	.margin_top {
+		margin-top: 50px;
+	}
+}
